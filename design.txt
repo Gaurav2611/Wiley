@@ -1,0 +1,5 @@
+BANKING APPLICATION
+
+> Two user types will be availed, Users and admin.
+> Users will be able to deposit money, withdraw, fetch balance, see mini-statement.
+> Admins will be able to add new account, delete or modify existing accounts.
